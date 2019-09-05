@@ -1,4 +1,4 @@
-# ![logo](GG_Star/LINE.png) LINE ANTI-SPAM Self FA
+# ![logo](linepy/LINE.png) LINE ANTI-SPAM Self FA
 
 <p align="center">
   
@@ -35,7 +35,7 @@ _________________________________
 
 # اطلاعات تماس
 
-![Soheil](GG_Star/logo.png)
+![Soheil](/logo.png)
 
 My Websites : [3oheil](https://3oheil.com)  ,  [W O O D A](httpS://www.wooda.ir)
 
